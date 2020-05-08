@@ -1,0 +1,211 @@
+Year,Paper,Adapt type,Normalised Adapt type
+2019,SASO_Gueriau,Parametric learning,Parametric
+2019,SASO_King,Parametric compute,Parametric
+2019,SASO_Ratasich,Structural compute,Structural
+2019,SASO_Murad,Learned policy parameters for compute (duty cycle),Meta
+2019,SASO_Porter,Structural compute,Structural
+2019,SASO_Barcis,Algorithm,Parametric
+2019,SASO_Podolskiy,Parameters,Parametric
+2019,SASO_Hendren,Network topology,Structural
+2019,SASO_Fredericks,Car routes,Structural
+2019,SASO_Hakimzadeh,Cloud scaling,Structural
+2019,SASO_Barnes,Behaviour,Structural
+2019,SASO_Fang,Learning / classifier tuning,Meta
+2019,SASO_Diaconescu,Coordination,Meta
+2019,SASO_Bartosz,Cloud scaling,Structural
+2019,SASO_Paucar,Topology choice,Structural
+2019,SASO_Brand,N/A,N/A
+2019,ICAC_Imes,Power cap tuning,Parametric
+2019,ICAC_Zufle,Recommender approach,Meta (?)
+2019,ICAC_Seetanadi,N/A,N/A
+2019,ICAC_Ramirez,Cloud scaling,Structural
+2019,ICAC_Zhao,N/A,N/A
+2019,ICAC_Schmitt,N/A,N/A
+2019,ICAC_Trotter,N/A,N/A
+2019,ICAC_Birke,Request size,Parametric
+2019,ICAC_Li,Cloud scaling,Structural
+2019,ICAC_Jayaram,Cloud scaling,Structural
+2019,ICAC_Larsson,Quality of experience,Meta (?)
+2019,ICAC_Ramprasad,N/A,N/A
+2019,ICAC_Langford,N/A,N/A
+2019,ICAC_Shiele,N/A,N/A
+2019,ICAC_Huang,N/A,N/A
+2019,ICAC_Tantawi,Scheduling policy,Structural
+2019,ICAC_Boubin,Flight paths for UAVs,Structural
+2019,ICAC_Arellanes,Behaviour,Meta (?)
+2019,ICAC_Mirhosseini,Scheduling policy,Structural
+2019,ICAC_Chhetri,Behaviour,Meta (?)
+2019,ICAC_Horn,Cloud scaling,Structural
+2019,SEAMS_Chen,Various,Meta (?)
+2019,SEAMS_Langford,Parametric,Parametric
+2019,SEAMS_Liaskos,Parametric,Parametric
+2019,SEAMS_Moreno,N/A,N/A
+2019,SEAMS_Provoost,N/A,N/A
+2019,SEAMS_Maia,N/A,N/A
+2019,SEAMS_Quin,Feature / action space narrowing for self-adaptive systems,Meta
+2019,SEAMS_Tsigkanos,N/A,N/A
+2019,SEAMS_Bennaceur,N/A,N/A
+2019,SEAMS_Jamshidi,Action space narrowing,Meta
+2019,SEAMS_ElSaid,N/A,N/A
+2019,SEAMS_Erbel,Various (platform),Meta (?)
+2019,SEAMS_Angelo,N/A,N/A
+2019,SEAMS_Mertz,Monitoring granularity,Meta
+2019,SEAMS_Grua,N/A,N/A
+2019,SEAMS_Solano,Behaviour,Meta (?)
+2019,SEAMS_Lemos,Machine learning model,Meta
+2019,SEAMS_Gerostathopoulos,Behaviour,Structural (?)
+2019,SEAMS_Khakpour,N/A,N/A
+2019,SEAMS_Devries,Parametric,Parametric
+2019,SEAMS_Paterson,Workflow,Meta (?)
+2019,SEAMS_Bennaceur_B,Requirements,Meta
+2019,SEAMS_Jones,N/A,N/A
+2018,SASO_Berrevoets,Parametric,Parametric
+2018,SASO_Ceriotti,Parametric,Parametric
+2018,SASO_Esterle,Behavioural,Meta
+2018,SASO_Feldman,N/A,N/A
+2018,SASO_Hanke,Behavioural,Structural
+2018,SASO_Hu,N/A,N/A
+2018,SASO_King,N/A,N/A
+2018,SASO_Kurka,N/A,N/A
+2018,SASO_Liu,N/A (changes the type of information shared),N/A
+2018,SASO_Mera-Gómez,Parametric,Parametric
+2018,SASO_Pitt,N/A,N/A
+2018,SASO_Podolskiy,N/A,N/A
+2018,SASO_Reichstaller,N/A,N/A
+2018,SASO_Seipp,N/A,N/A
+2018,SASO_Verstaevel,Parametric,Parametric
+2018,SASO_Brand,Architectural,Structural
+2018,SASO_Budhraja,Behavioural,Meta
+2018,SASO_Frasheri,Behavioural,Meta
+2018,SASO_Jahan,Architectural,Structural
+2018,SASO_Patros,Parametric,Parametric
+2018,SASO_Wall,Behavioural,Meta
+2018,ICAC_He,N/A,N/A
+2018,ICAC_Zacheilas,N/A,N/A
+2018,ICAC_Balasubramanian,Parametric,Parametric
+2018,ICAC_Lakew,Parametric,Parametric
+2018,ICAC_Krzywda,Parametric ,Parametric 
+2018,ICAC_Nylander,Parametric / Policy,Parametric
+2018,ICAC_Pandey,N/A,N/A
+2018,ICAC_Arnaboldi,Parametric,Parametric
+2018,ICAC_Kostentinos,Parametric,Parametric
+2018,ICAC_Younis,Parametric,Parametric
+2018,ICAC_Szep,Parametric,Parametric
+2018,ICAC_Gueye,N/A,N/A
+2018,ICAC_Mehta,Placement,Structural
+2018,ICAC_Gabor,N/A,N/A
+2018,ICAC_Ali,Parametric,Parametric
+2018,ICAC_von_Kistowski,N/A,N/A
+2018,ICAC_Tadakamalla,Structural,Structural
+2018,ICAC_Barlaskar,N/A,N/A
+2018,ICAC_Riley,N/A,N/A
+2018,ICAC_Mouline,N/A,N/A
+2018,ICAC_Mann,Parametric,Parametric
+2018,ICAC_Ghahremani,N/A,N/A
+2018,ICAC_Hadded,Parametric,Parametric
+2018,SEAMS_Borda,N/A,N/A
+2018,SEAMS_Edwards,N/A,N/A
+2018,SEAMS_Paucar,N/A,N/A
+2018,SEAMS_Weiss,N/A,N/A
+2018,SEAMS_Delnat,N/A,N/A
+2018,SEAMS_Kinneer,Behavioural,Meta
+2018,SEAMS_Moreno,Any (not specified),Meta
+2018,SEAMS_Gerostathopoulos,Parametric,Parametric
+2018,SEAMS_Olaechea,Architectural (turn features on and off),Structural
+2018,SEAMS_Trollmann,Any (not specified),Meta
+2018,SEAMS_Silva,N/A,N/A
+2018,SEAMS_DeVries,Behavioural,Meta
+2018,SEAMS_Vogel,Architectural,Structural
+2018,SEAMS_Faccin,Parametric,Parametric
+2018,SEAMS_Pournaras,N/A,N/A
+2018,SEAMS_Ductor,Behavioural,Structural
+2018,SEAMS_Moreno,Parametric,Parametric
+2018,SEAMS_D'Angelo,N/A,N/A
+2018,SEAMS_Marshall,N/A,N/A
+2018,SEAMS_Tun,Input approximation (they introduce this concept -- sounds like parametric to me),Parametric
+2018,SEAMS_Guerriero,Structural / Behavioural (changing policies),Structural
+2018,SEAMS_Dobaj,N/A,N/A
+2018,SEAMS_Peruma[ABSTRACT],N/A,N/A
+2018,SEAMS_Mann[ABSTRACT],N/A,N/A
+2018,SEAMS_Sedgewick[ABSTRACT],Structural (exclude nodes from the infrastructure),Structural
+2018,SEAMS_Tun[ABSTRACT],N/A,N/A
+2018,SEAMS_Duarte,"Parametric / Structural (adds, removes nodes in the system)",Structural
+2018,SEAMS_Rodrigues,Parametric,Parametric
+2018,SEAMS_Moghadam,Parametric (changing actions),Parametric
+2017,SASO_Tamersoy,Roles and goals (model objects),Meta
+2017,SASO_Esterle,Camera coverage,Parametric
+2017,SASO_Audrito,Gradient algorithm ,Meta
+2017,SASO_Weißbach,Managed application behaviour,Structural (?)
+2017,SASO_Khaluf,algorithm,Parametric
+2017,SASO_ Jahan,Adapt plans (may influence the termination of a selected adaptation),Meta
+2017,SASO_Birdsey,N/A,N/A
+2017,SASO_Pitt,N/A,N/A
+2017,SASO_Paduraru,Modules (defined components),Structural
+2017,SASO_Disterhoft,N/A,N/A
+2017,SASO_Christi,Resource Usage (per program),Structural
+2017,SASO_Leeuwen,Power transfer rate ,Parametric
+2017,SASO_Pianini,Local count (used in collective counting),Parametric
+2017,SASO_Lavoie,N/A,N/A
+2017,SEAMS_Moreno/Papadopoulos,Behaviour,Meta (?)
+2017,SEAMS_Moreno/Strichman,Robot Swarm Formation / Cloud Scaling,Structural
+2017,SEAMS_Barna,Cloud scaling (container count),Structural
+2017,SEAMS_Iftikhar,N/A,N/A
+2017,SEAMS_Sousa,available reconfiguration operations,Parametric
+2017,SEAMS_Tahara,System Behaviour,Meta (?)
+2017,SEAMS_Zhang,N/A,N/A
+2017,SEAMS_Shevtsov,System requirements,Meta
+2017,SEAMS_Lloyd,Stock prediction engine (buy or sell using human or NN),Meta
+2017,SEAMS_Krijt,Ensemble (formation of components),Structural
+2017,SEAMS_Barbosa,N/A,N/A
+2017,SEAMS_Riganelli,Libraries available / Resource usage,Structural
+2017,SEAMS_Weisenburger,System Behaviour,Meta (?)
+2017,SEAMS_Cailliau,CountermeasuresR23:S30 (System goal),Meta
+2017,SEAMS_Pilgerstorfer,System Behaviour (Plans),Meta
+2017,SEAMS_Silva,User permissions/roles,Meta
+2017,SEAMS_Maggio,N/A,N/A
+2017,SEAMS_Pandey,N/A,N/A
+2017,SEAMS_Jamshidi,N/A,N/A
+2017,SEAMS_Gerasimou,N/A,N/A
+2017,ICAC_Pfannemuller,Behavior,Structure (?)
+2017,ICAC_Zhao,Adaption Rules (initial supplied goals/thresholds),Meta
+2017,ICAC_Sun,Window and sampling size,Parametric
+2017,ICAC_Krupitzer,Adaption logic,Meta
+2017,ICAC_Chen,N/A,N/A
+2017,ICAC_Landauer/Bellman,N/A,N/A
+2017,ICAC_Ma,Scheduling policy,Parametric (?)
+2017,ICAC_Ingerson,N/A,N/A
+2017,ICAC_Poghosyan,N/A,N/A
+2017,ICAC_Zheng,Migration point,Structural
+2017,ICAC_Rosalie,Robotic Swarm Formation,Structural
+2017,ICAC_Albassam,N/A,N/A
+2017,ICAC_ Hosseini,N/A,N/A
+2017,ICAC_Javadi,Scheduling Policy,Parametirc (?)
+2017,ICAC_Ghahremani,Behavior,Meta (?)
+2017,ICAC_Burger,Hardware (MCU and FPGA) / behavior (FPGA configuration files),Parametric (?)
+2017,ICAC_Mishra,Scheduling Policy,Parametric (?)
+2017,ICAC_Wang,N/A,N/A
+2017,ICAC_Maroulis,N/A,N/A
+2017,ICAC_Chen,N/A,N/A
+2017,ICAC_Lee,Concurrent job count ,Parametric (?)
+2017,ICAC_ Alvares,Behaviour (components),Structural (?)
+2017,ICAC_Brody,N/A,N/A
+2017,ICAC_Adiththan,Parameters (altering cruise control behavior),Parametric
+2017,ICAC_Landauer,N/A,N/A
+2017,ICAC_Nguyen,Resource Usage (per workload),Structural (?)
+2017,ICAC_Hale,Behavior,Meta (?)
+2017,ICAC_Wang,Scheduling Policy,Parametric (?)
+2017,ICAC_Malla,N/A,N/A
+2017,ICAC_Brataas,N/A,N/A
+2017,ICAC_Li,Application state,Parametric
+2017,ICAC_Lalanda,Behaviour (Components),Structural
+2017,ICAC_Pournaras,Node Topology,Structural
+2017,ICAC_ Grohmann,N/A,N/A
+2017,ICAC_Brocanelli,N/A,N/A
+2017,ICAC_Giridhar,N/A,N/A
+2017,ICAC_Vialon,Behavior (System goal),Meta
+2017,ICAC_Frommgen,Consensus protocol,Parametric (?)
+2017,ICAC_ Bencomo,N/A,N/A
+2017,ICAC_Behara,N/A,N/A
+2017,ICAC_Tran,N/A,N/A
+2017,ICAC_Velarde,N/A,N/A
+2017,ICAC_Li/Niu,N/A,N/A
